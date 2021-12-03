@@ -37,7 +37,7 @@ También verá errores de pelusa en la consola.
 ### Work and distribution team
 
 ```
-- Mena Mariano branch (products)
+
 
 ```
 ### Requirements

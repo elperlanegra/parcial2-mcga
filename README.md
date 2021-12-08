@@ -11,17 +11,17 @@ Desarrolle una aplicación web que cumpla con los requisitos colocados en la sec
 Pasos a seguir para poder probar el proyecto en tu pc.
 
 1. Open shell
-```shel
+```bash
 Shell in Visual Studio Code
 ```
 
 3. Instalamos los paquetes necesarios para poder ejecutar el sistema con "npm install"
-```shel
+```bash
 npm install
 ```
 
 Iniciamos el servidor con el comando "npm start"
-```shel
+```bash
 npm start
 ```
 
@@ -33,8 +33,8 @@ También verá errores de pelusa en la consola.
 
 ### Work and distribution team
 
-```
-- Mena Mariano branch (products)
+```bash
+ - Mena Mariano branch (products)
 ```
 ### Requirements
 

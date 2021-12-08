@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {"id":"6168dfa48aa3d6a0f6c29580",
+      "nombre_proveedor":"Lopez Hnos.",
+      "tipo_proveedor":"Productor de Verduras",
+      "email_proveedor":"LopezHnos@gmail.com",
+      "telefono_proveedor":"4444440",
+      "ciudad_proveedor":"Rosario",
+      "codigo_postal":"2000"
+    },
+
+      {"_id":"6168dfa48aa3d6a0f6c29582",
+        "nombre_proveedor":"Cruz Alta",
+        "tipo_proveedor":"Productor de Harina",
+        "email_proveedor":"CruzAlta@gmail.com",
+        "telefono_proveedor":"4444442",
+        "ciudad_proveedor":"Rosario",
+        "codigo_postal":"2000"
+      }
+  ]
+}
